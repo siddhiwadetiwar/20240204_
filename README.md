@@ -12,7 +12,7 @@ This Repository contains Progress of Training Period.
 
 ## **Implementation of Singly Linked List**
 
-### File: LinkedList.js
+### File: data_structures_linked_list.js
 
 **Overview:** Within this file lies an elegant implementation of a singly linked list data structure in the JavaScript programming language. Immerse yourself in the beauty of methods crafted for insertion, deletion, searching, and various other common operations tailored for linked lists.
 
