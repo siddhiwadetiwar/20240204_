@@ -24,7 +24,7 @@ This Repository contains Progress of Training Period.
 
 ## Harmony of Arithmetic and Arrays
 
-### File: ArithmeticOperations.js
+### File: infinite_precision_arithmatic
 
 **Overview:** Uncover the symphony of arithmetic operations gracefully orchestrated for arrays in this file. Delve into functions that dance through basic arithmetic maneuvers such as addition, subtraction, and multiplication on arrays representing numbers. Additionally, savor the inclusion of validation and helper functions designed to elegantly manipulate arrays.
 
