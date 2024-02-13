@@ -6,7 +6,7 @@ This Repository contains Progress of Training Period.
 
 - Introduction
 - Installation
-- Results
+
 
 ## Introduction 🧑‍🔧
 
@@ -28,12 +28,6 @@ This Repository contains Progress of Training Period.
 
 **Overview:** Uncover the symphony of arithmetic operations gracefully orchestrated for arrays in this file. Delve into functions that dance through basic arithmetic maneuvers such as addition, subtraction, and multiplication on arrays representing numbers. Additionally, savor the inclusion of validation and helper functions designed to elegantly manipulate arrays.
 
-## Features 🤖
-
-1. **Object Detection:** Utilizes computer vision to identify and locate specific PPE items within images or video feeds.
-2. **Real-time Monitoring:** Offers continuous surveillance to ensure ongoing adherence to safety protocols.
-3. **Scalability:** Adaptable for various industries, from construction sites to healthcare, enhancing safety across different sectors.
-4.  **Customization Options:** Allows flexibility in tailoring the system to detect specific types of PPE or adapt to diverse working conditions and environments.
 
 ## Setup 🖱️
 
