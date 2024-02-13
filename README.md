@@ -18,7 +18,7 @@ This Repository contains Progress of Training Period.
 
 ## Binary Number Wizardry
 
-### File: BinaryOperations.js
+### File: decimal_binary_conversions
 
 **Overview:** Embark on a journey through the realms of binary number operations within this file. Marvel at functions dedicated to the seamless conversion between decimal and binary representations, the mystical computation of the two's complement, and a myriad of other enchanting operations.
 
